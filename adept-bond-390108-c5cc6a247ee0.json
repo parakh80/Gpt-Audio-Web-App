@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "adept-bond-390108",
+  "private_key_id": "c5cc6a247ee0de4c1a04be72ae45829527f0427a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLjpSTEEE7nSqH\n9nPMljr6P/vjpY/lug90rEyzdtnwHMe21jnDN4LBL0YlMTnCszbJB/pD7f3CavTl\nj3DAM3j/sD/UxXu12jds11mR+OCtZFfuhQOhe2OymC/zM4XEgrWoNwpNR0yxJQQh\n5H5axh4kaIMAakwl+KUBSzN95dbWI7BWd70GshbB+Qx5gUXp/P8Qgkk8lLEF9zra\nHKy5CiPOcR0N8BceVI3JmDkDHYJTlJMqy6iXL3IGd5RkRB8JdhEDH+Ce2+UVgh5I\n8XJsdNjmFh6nV2RHoKn6t7OsAxErTpuqz7D5eVHqZWIRJk6kGQZz5QB/U/lUJczO\niUS64e9JAgMBAAECggEAQmucU/gnC+/r96T5DTStIkDEql64g35P79g3cyzMYibY\neLEx8bMgVMCisn3gv0VbfEeDOcRyA4+zOfTQlXGKE6t3XdWV4QHYYkGGXF6m1G+P\nGDMPfNJEq5IaNDZf4pzRR5vWl9wo6KC0/EqLRrnHS83AF7j/wAy8v8ZiXfe/jc/f\nmJuIaXg6E/TtxTnb0hAQ7WFA52/ZwR/53YkEYzOmd6PKaTfH9fgDFGbcn3ILvnEm\nSOessNUYnKlI1NYD27YFPRRd8b2Cs/dVRkmPG8y62x32OuThWyqOgC6fPlIRBZH+\nMX3geREoHa7ndyPSUz2epFPVmMOwi1q0dZIA6AOu/wKBgQDB/NgPXw/B5RBpwVi9\n6OJ9BYz2WEbXH5xMcFaUsu9z8BdrDRXk/32xy9es79BFIKdW2jCNwMZLMhPCwIrE\n0o4MVqLDRDGzfBmIofGv+XekIdlkt9x/UjQCi9MAqiTXSay4viIZTxiFDFTYWxOc\nPwQpp9BbUpHrWZ/JzVTo5k2EOwKBgQC4K1l9IgNSVnBw5j7ndv2vDWxR7hO1aPtR\n11jhC4Zf2kLQEij7HNdNWRJlGJovhotQ104zd8C7oIY6dG4r3ZpdXJsHwnv3Wxsr\ntfAVmFRuxfqKDg00er3Qttm0wpIBbyGdj2N1sADSZG5pnKLUrS8DGfTXoPjR3yIq\npN4tbxt2SwKBgGQxLILb7W6O2ehVVXlY5EoAaOr/cy8/A2Izj3Rj6ustsVq4Onu5\nPflruCx4/FAH6oYgUX2VeJVz+uLWwZWgzn8u7AgAm88BJMr+Ia9rINEkLn0nvXoB\nQh2ijEvGlRqg0dXlVgVOZfKqCNRqTfmgTo0ZQLM6NWWiN7ZqGBXmhVjrAoGAZwpB\n8EPmbdvU3yXDDgfCGX2+G/zC5B2PdxOwM4EaNmjMNtPiP9S8FRd/tjZUlcCGE73S\nj/MxTwiZ8PyRY1OB+ThFuMq0RwmfIw6Q+9QVcUCtUy5XbwQ5TRvwpDS0Mb82pIvE\nDuVhIFV2fPpZE/qtMeQE29vBOtLHr+o8MFlYmQ8CgYEAqbm5RWpWF+LSvrCKIR4n\nj/m/zQv+NfwHEyBol2chWe/enY4R3dcshiJr+3rdbM6uU4qCBQzbZkRnHnvyxtah\ndmhTsZEC3swW2ohs5TvFN47wjQlT4xtQ3S3lPJO3mTUmyveAvht9gNw1tH2GSEir\n+vuKRvQ3Kae6XLXLovTZpzE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gpt-to-zoom@adept-bond-390108.iam.gserviceaccount.com",
+  "client_id": "117184345816849556769",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gpt-to-zoom%40adept-bond-390108.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
