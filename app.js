@@ -5,8 +5,8 @@ const path = require('path');
 // Serve static files
 app.use(express.static('public'));
 
-const GPTresponce = require('./text-to-gpt');
-const getSpeech = require('./gpt-to-speech');
+const GPTresponce = require('./controller/text-to-gpt');
+const getSpeech = require('./controller/gpt-to-speech');
 
 
 app.get('*', (req, res) => {
