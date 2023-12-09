@@ -1,4 +1,4 @@
-process.env.GOOGLE_APPLICATION_CREDENTIALS = `${__dirname}/adept-bond-390108-c5cc6a247ee0.json`;
+process.env.GOOGLE_APPLICATION_CREDENTIALS = `${__dirname}/folkloric-vault-406412-5f0424fcab7d.json`;
 
 const { TextToSpeechClient } = require('@google-cloud/text-to-speech');
 
